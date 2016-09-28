@@ -1,0 +1,6 @@
+must:
+normale regeling ochtendspits nacht
+should:
+voetgangers
+could:
+de rest

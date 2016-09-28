@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Trafficlights_lib" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Trafficlights_lib" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Debug/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Unit filename="EveningRegulation.cpp" />
+		<Unit filename="EveningRegulation.h" />
+		<Unit filename="GeneralPin.cpp" />
+		<Unit filename="GeneralPin.h" />
+		<Unit filename="InputPin.cpp" />
+		<Unit filename="InputPin.h" />
+		<Unit filename="Light.cpp" />
+		<Unit filename="Light.h" />
+		<Unit filename="MorningRegulation.cpp" />
+		<Unit filename="MorningRegulation.h" />
+		<Unit filename="NightRegulation.cpp" />
+		<Unit filename="NightRegulation.h" />
+		<Unit filename="NormalRegulation.cpp" />
+		<Unit filename="NormalRegulation.h" />
+		<Unit filename="PedestrianLight.cpp" />
+		<Unit filename="PedestrianLight.h" />
+		<Unit filename="Regulation.cpp" />
+		<Unit filename="Regulation.h" />
+		<Unit filename="RoadLight.cpp" />
+		<Unit filename="RoadLight.h" />
+		<Unit filename="TrafficLight.cpp" />
+		<Unit filename="TrafficLight.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
